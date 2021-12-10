@@ -16,7 +16,7 @@
         <testng.version>6.14.3</testng.version>
         <selenium.version>3.141.59</selenium.version>
         <lombok.version>1.18.2</lombok.version>
-        <log4j.version>2.13.0</log4j.version>
+        <log4j.version>2.15.0</log4j.version>
         <assertj-core.version>3.14.0</assertj-core.version>
         <aspectj.version>1.9.1</aspectj.version>
         <allure.testng.version>2.6.0</allure.testng.version>
